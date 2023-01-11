@@ -1,1 +1,3 @@
 # data-analysis-using-chat-gpt
+
+Hey there! This project is all about learning data analysis but with a cool twist - using AI technology in the form of a chat GPT model. I generated a simulated dataset using the chat GPT model to show you how data analysis works and the challenges that come with working with messy or incomplete data. The goal is to show how AI can be integrated in the data analysis process, from data cleaning to visualization, even providing insights. So, not only will you learn data analysis techniques but also see how AI can make the process a lot smoother and efficient. Give it a try, it's a great way to see how AI can be used to make data-driven decisions.
